@@ -1,7 +1,7 @@
 #matrix_operation
 (A + B) * (C + D)
 
-The goal of project is to make (A+B)*(C+D) matrix operation using OOP concepts.
+The goal of the project is to make (A+B)*(C+D) matrix operation using OOP concepts.
 The project consists of three parts.
 
 The first part generates four matrix files with user defined parameters(matrix quantity in file, matrix rows and columns limits). The matrices in file consist of random generated integer elements from the interval [-99, 99].
