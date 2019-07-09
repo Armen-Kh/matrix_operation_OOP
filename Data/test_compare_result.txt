@@ -1,0 +1,8 @@
+Divergence of matrix number: #111 -> #1
+Incompatible matrices: #3 -> #3
+Divergence of matrix number: #444 -> #4
+Incompatible matrices: #6 -> #6
+===================================================================
+checked matrices: 70
+incompatible matrices: 2, percentage: 2.85714 %.
+===================================================================
